@@ -29,13 +29,4 @@ $pass = "124";
 // echo $users["name"];
 
 
-if (is_array($pass)){
-    echo "es un array";
-}
-else
-{
-    echo "no es un array";
-};
-
-
 ?>
