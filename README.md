@@ -18,7 +18,7 @@ git push -u origin main
 git add .
 git status
 
-git commmit -m "comentario"
+git commit -m "comentario"
 
 git push origin
 
@@ -28,7 +28,7 @@ git pull origin
 
 git clone https://github.com/luisguillermoPE/php-pildoras.git
 git add .
-git commit -m "first commit"
+git commit -m "commit coment"
 git branch -M main
 git push -u origin main
 
