@@ -1,0 +1,25 @@
+<?php
+
+// array indexado
+
+$week[]="monday";
+$week[] = "wednesday";
+$week[]="thursday";
+
+
+// var_dump($week);
+
+// echo $week[1];
+
+foreach($week as $i => $w){
+    echo $i."-> ".$w."\n";
+}
+
+
+$array = array(1, 2, 3, 4);
+foreach ($array as $valor) {
+    $arrayy[] = $valor * 2;
+}
+var_dump($arrayy);
+
+?>
