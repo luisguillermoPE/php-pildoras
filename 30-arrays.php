@@ -21,8 +21,4 @@ foreach ($array as $valor) {
     $arrayy[] = $valor * 2;
 }
 var_dump($arrayy);
-
-
-// GAAAAAAAAAAAAAAAAAA
-
 ?>
